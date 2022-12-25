@@ -1,3 +1,3 @@
-# DFIR Cheat Sheet
+# Redteam Cheat Sheet
 visit cheat sheet at 
-https://dfircheatsheet.github.io
+https://redteamcheatsheet.github.io
